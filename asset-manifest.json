@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emms-stub/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/emms-stub/static/js/main.820a9722.chunk.js",
+    "main.js.map": "/emms-stub/static/js/main.820a9722.chunk.js.map",
+    "runtime-main.js": "/emms-stub/static/js/runtime-main.0a0cba1d.js",
+    "runtime-main.js.map": "/emms-stub/static/js/runtime-main.0a0cba1d.js.map",
+    "static/js/2.db8ebe05.chunk.js": "/emms-stub/static/js/2.db8ebe05.chunk.js",
+    "static/js/2.db8ebe05.chunk.js.map": "/emms-stub/static/js/2.db8ebe05.chunk.js.map",
+    "static/js/3.8b1c9201.chunk.js": "/emms-stub/static/js/3.8b1c9201.chunk.js",
+    "static/js/3.8b1c9201.chunk.js.map": "/emms-stub/static/js/3.8b1c9201.chunk.js.map",
+    "index.html": "/emms-stub/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/emms-stub/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.db8ebe05.chunk.js.LICENSE.txt": "/emms-stub/static/js/2.db8ebe05.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/emms-stub/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a0cba1d.js",
+    "static/js/2.db8ebe05.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.820a9722.chunk.js"
+  ]
+}
